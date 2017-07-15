@@ -1,0 +1,24 @@
+{
+  "name": "special-effect",
+  "version": "0.0.1",
+  "description": "image processing testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamindian/special-effect.git"
+  },
+  "keywords": [
+    "image",
+    "processing"
+  ],
+  "author": "darren z m lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamindian/special-effect/issues"
+  },
+  "homepage": "https://github.com/iamindian/special-effect#readme"
+}
